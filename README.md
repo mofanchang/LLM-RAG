@@ -24,8 +24,6 @@ A Python-based AI agent that combines vector search and natural language generat
 ### Screenshot
 ![Gradio Interface](https://raw.githubusercontent.com/mofanchang/Recipe-Recommendation-AI-Agent/main/recipe.png)
 
-### Dependencies
-- sqlite3, sentence-transformers, faiss, transformers, torch, gradio
 
 
 ## 食譜推薦 AI Agent
@@ -54,8 +52,7 @@ A Python-based AI agent that combines vector search and natural language generat
 ### 介面截圖
 ![Gradio 介面](https://raw.githubusercontent.com/mofanchang/Recipe-Recommendation-AI-Agent/main/recipe.png)
 
-### 依賴
-- sqlite3, sentence-transformers, faiss, transformers, torch, gradio
+
 
 
 
