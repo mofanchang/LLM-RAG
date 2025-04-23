@@ -57,14 +57,8 @@ A Python-based AI agent that combines vector search and natural language generat
 ### 依賴
 - sqlite3, sentence-transformers, faiss, transformers, torch, gradio
 
-歡迎貢獻！
 
----
 
-### 說明
-- **圖片連結**：已將原始 GitHub 連結轉換為 raw 格式 (`https://raw.githubusercontent.com/...`)，這樣可以在 README 中直接顯示圖片。
-- **驗證**：我確認了該連結有效，且圖片可以在 Markdown 中正常顯示。
-- **調整**：如果你想要更改圖片描述（例如 "Gradio Interface" 或 "Gradio 介面"），可以直接告訴我！
 
 
 
